@@ -1,0 +1,215 @@
+E:\ThirdXmEve\bin\ThirdXmEve.dll.config
+E:\ThirdXmEve\bin\ThirdXmEve.dll
+E:\ThirdXmEve\bin\ThirdXmEve.pdb
+E:\ThirdXmEve\bin\roslyn\csc.exe
+E:\ThirdXmEve\bin\roslyn\csc.exe.config
+E:\ThirdXmEve\bin\roslyn\csc.rsp
+E:\ThirdXmEve\bin\roslyn\csi.exe
+E:\ThirdXmEve\bin\roslyn\csi.exe.config
+E:\ThirdXmEve\bin\roslyn\csi.rsp
+E:\ThirdXmEve\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ThirdXmEve\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ThirdXmEve\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\ThirdXmEve\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ThirdXmEve\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\ThirdXmEve\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ThirdXmEve\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ThirdXmEve\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\ThirdXmEve\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\ThirdXmEve\bin\roslyn\Microsoft.Managed.Core.targets
+E:\ThirdXmEve\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ThirdXmEve\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\ThirdXmEve\bin\roslyn\System.AppContext.dll
+E:\ThirdXmEve\bin\roslyn\System.Collections.Immutable.dll
+E:\ThirdXmEve\bin\roslyn\System.Console.dll
+E:\ThirdXmEve\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\ThirdXmEve\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\ThirdXmEve\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\ThirdXmEve\bin\roslyn\System.Globalization.Calendars.dll
+E:\ThirdXmEve\bin\roslyn\System.IO.Compression.dll
+E:\ThirdXmEve\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\ThirdXmEve\bin\roslyn\System.IO.FileSystem.dll
+E:\ThirdXmEve\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\ThirdXmEve\bin\roslyn\System.Net.Http.dll
+E:\ThirdXmEve\bin\roslyn\System.Net.Sockets.dll
+E:\ThirdXmEve\bin\roslyn\System.Reflection.Metadata.dll
+E:\ThirdXmEve\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\ThirdXmEve\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\ThirdXmEve\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\ThirdXmEve\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\ThirdXmEve\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\ThirdXmEve\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\ThirdXmEve\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\ThirdXmEve\bin\roslyn\System.ValueTuple.dll
+E:\ThirdXmEve\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\ThirdXmEve\bin\roslyn\System.Xml.XmlDocument.dll
+E:\ThirdXmEve\bin\roslyn\System.Xml.XPath.dll
+E:\ThirdXmEve\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\ThirdXmEve\bin\roslyn\vbc.exe
+E:\ThirdXmEve\bin\roslyn\vbc.exe.config
+E:\ThirdXmEve\bin\roslyn\vbc.rsp
+E:\ThirdXmEve\bin\roslyn\VBCSCompiler.exe
+E:\ThirdXmEve\bin\roslyn\VBCSCompiler.exe.config
+E:\ThirdXmEve\bin\Antlr3.Runtime.dll
+E:\ThirdXmEve\bin\EntityFramework.dll
+E:\ThirdXmEve\bin\EntityFramework.SqlServer.dll
+E:\ThirdXmEve\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ThirdXmEve\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ThirdXmEve\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ThirdXmEve\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ThirdXmEve\bin\Microsoft.Owin.dll
+E:\ThirdXmEve\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.dll
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.Google.dll
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ThirdXmEve\bin\Microsoft.Web.Infrastructure.dll
+E:\ThirdXmEve\bin\Newtonsoft.Json.dll
+E:\ThirdXmEve\bin\Owin.dll
+E:\ThirdXmEve\bin\System.Web.Helpers.dll
+E:\ThirdXmEve\bin\System.Web.Mvc.dll
+E:\ThirdXmEve\bin\System.Web.Optimization.dll
+E:\ThirdXmEve\bin\System.Web.Razor.dll
+E:\ThirdXmEve\bin\System.Web.WebPages.Deployment.dll
+E:\ThirdXmEve\bin\System.Web.WebPages.dll
+E:\ThirdXmEve\bin\System.Web.WebPages.Razor.dll
+E:\ThirdXmEve\bin\WebGrease.dll
+E:\ThirdXmEve\bin\System.Web.Helpers.xml
+E:\ThirdXmEve\bin\System.Web.Mvc.xml
+E:\ThirdXmEve\bin\System.Web.Optimization.xml
+E:\ThirdXmEve\bin\System.Web.Razor.xml
+E:\ThirdXmEve\bin\System.Web.WebPages.xml
+E:\ThirdXmEve\bin\System.Web.WebPages.Deployment.xml
+E:\ThirdXmEve\bin\System.Web.WebPages.Razor.xml
+E:\ThirdXmEve\bin\Newtonsoft.Json.xml
+E:\ThirdXmEve\bin\Antlr3.Runtime.pdb
+E:\ThirdXmEve\bin\EntityFramework.xml
+E:\ThirdXmEve\bin\EntityFramework.SqlServer.xml
+E:\ThirdXmEve\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ThirdXmEve\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ThirdXmEve\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ThirdXmEve\bin\Microsoft.Owin.xml
+E:\ThirdXmEve\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.xml
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.Google.xml
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ThirdXmEve\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ThirdXmEve\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ThirdXmEve\obj\Debug\ThirdXmEve.csproj.CoreCompileInputs.cache
+E:\ThirdXmEve\obj\Debug\ThirdXmEve.csproj.CopyComplete
+E:\ThirdXmEve\obj\Debug\ThirdXmEve.dll
+E:\ThirdXmEve\obj\Debug\ThirdXmEve.pdb
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\ThirdXmEve.dll.config
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\ThirdXmEve.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\ThirdXmEve.pdb
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\csc.exe
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\csc.exe.config
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\csc.rsp
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\csi.exe
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\csi.exe.config
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\csi.rsp
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.AppContext.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Console.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.IO.Compression.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Net.Http.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Net.Sockets.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.ValueTuple.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Xml.XPath.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\vbc.exe
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\vbc.exe.config
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\vbc.rsp
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\VBCSCompiler.exe
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Antlr3.Runtime.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\EntityFramework.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\EntityFramework.SqlServer.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Newtonsoft.Json.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Owin.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.Helpers.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.Mvc.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.Optimization.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.Razor.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.WebPages.Deployment.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.WebPages.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.WebPages.Razor.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\WebGrease.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\EntityFramework.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\EntityFramework.SqlServer.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.Helpers.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.Mvc.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.Optimization.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.Razor.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.WebPages.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.WebPages.Deployment.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\System.Web.WebPages.Razor.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Newtonsoft.Json.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Antlr3.Runtime.pdb
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\obj\Debug\ThirdXmEve.csproj.AssemblyReference.cache
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\obj\Debug\ThirdXmEve.csproj.CoreCompileInputs.cache
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\obj\Debug\ThirdXmEve.csproj.CopyComplete
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\obj\Debug\ThirdXmEve.dll
+C:\Users\nazmu\OneDrive\Desktop\Bitm files\ThirdXmEve\obj\Debug\ThirdXmEve.pdb

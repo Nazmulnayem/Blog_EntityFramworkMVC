@@ -1,0 +1,11 @@
+﻿<div class="p-4">
+    <h4 class="fst-italic">Archives</h4>
+    <ol class="list-unstyled mb-0">
+        @foreach (var item in ViewBag.categories)
+        {
+            <li><a href="~/Home/PostByCategory/@item.ID">@item.Name</a></li>
+        }
+
+
+    </ol>
+</div>
